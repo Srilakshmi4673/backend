@@ -1,0 +1,68 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":2,
+      "description":"cleanes face"
+      
+    },
+    {
+      "id": 2,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":"gentle  face"
+      
+    },
+    {
+      "id": 3,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":"gentle cleanes "
+    },
+    {
+      "id": 4,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":"gentle cleanes "
+      
+    },
+    {
+      "id": 5,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":"gentle face"
+      
+    },
+    {
+      "id": 6,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":" face"
+      
+    },
+    {
+      "id": 7,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":"cleanes face"
+      
+    },
+    {
+      "id": 8,
+      "img":"https://exclusivelyfood.co.za/wp-content/uploads/2020/05/PAN-OIL-750ml.jpg",
+      "price": "587",
+      "quantity":"2",
+      "description":"gentle "
+      
+    }
+  ]
+  
+}
